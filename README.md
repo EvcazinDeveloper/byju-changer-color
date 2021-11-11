@@ -1,2 +1,2 @@
 # byju-changer-color
-This si a simple project of Byju's Future School.
+This is a simple project of Byju's Future School.
